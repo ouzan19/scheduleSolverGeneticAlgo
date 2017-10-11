@@ -18,7 +18,7 @@
 
 <p> see input files to better understand constraints. <br>
 
-<h2> The slution </h2>
+<h2> The solution </h2>
 
 <p>The courses are randomly placed into schedule at first. Then, using genetic algorithm, the schedule is evolved to a valid one. <br>
 <p> In the algorithm, the fitness is incremented by 1 for each violated hard-constraint and 0.001 for each violated soft constraint.
